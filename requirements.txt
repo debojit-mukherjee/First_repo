@@ -1,5 +1,6 @@
 streamlit
-faiss-cpu
+faiss-cpu==1.7.4
 sentence-transformers
 transformers==4.40.0
 PyPDF2
+torch
