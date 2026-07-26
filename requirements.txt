@@ -1,5 +1,0 @@
-transformers==4.40.0
-sentence-transformers
-faiss-cpu
-streamlit
-PyPDF2
