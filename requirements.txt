@@ -1,5 +1,5 @@
-streamlit
-faiss-cpu
+transformers==4.40.0
 sentence-transformers
-transformers
+faiss-cpu
+streamlit
 PyPDF2
