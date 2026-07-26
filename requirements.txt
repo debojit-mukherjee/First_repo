@@ -1,0 +1,7 @@
+streamlit
+faiss-cpu==1.7.4
+sentence-transformers
+transformers==4.39.3
+PyPDF2
+torch==2.2.0
+PYO3_USE_ABI3_FORWARD_COMPATIBILITY=1
