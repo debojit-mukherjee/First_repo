@@ -28,7 +28,7 @@ index.add(embeddings)
 # 3. Hugging Face Q&A model
 # -------------------------------
 try:
-    qa_model = pipeline("question-answering", model="distilbert-base-cased-distilled-squad")
+    qa_model = pipeline("question-answering", model="deepset/roberta-base-squad2")
 except Exception as e:
     qa_model = None
     st.warning(f"⚠️ Q&A model not loaded: {e}")
